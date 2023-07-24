@@ -1,6 +1,8 @@
 <template>
   <v-main>
-    <router-view />
+    <div class="pa-2">
+      <router-view />
+    </div>
   </v-main>
 </template>
 
